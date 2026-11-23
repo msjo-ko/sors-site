@@ -54,7 +54,7 @@ country_ko,iso3,primary_attendance_game,uis_indicator,uis_year,uis_out_of_school
 우즈베키스탄,UZB,0.997,ROFST.MOD.1,2025,0.3,
 페루,PER,0.995,ROFST.MOD.1,2025,0.5,
 칠레,CHL,0.992,ROFST.MOD.1,2025,0.8,
-루마니아,ROU,0.955,ROFST.MOD.1,2025,17.3,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+루마니아,ROU,0.955,ROFST.MOD.1,2025,17.3,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 노르웨이,NOR,0.996,ROFST.MOD.1,2025,0.4,
 스웨덴,SWE,0.998,ROFST.MOD.1,2025,0.2,
 덴마크,DNK,0.997,ROFST.MOD.1,2025,0.3,
@@ -68,18 +68,18 @@ country_ko,iso3,primary_attendance_game,uis_indicator,uis_year,uis_out_of_school
 모리셔스,MUS,0.98,ROFST.MOD.1,2025,2,
 르완다,RWA,0.977,ROFST.MOD.1,2025,2.3,
 세이셸,SYC,0.998,ROFST.MOD.1,2025,0.2,
-소말리아,SOM,0.7,ROFST.H.1,2022,73.79,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
-남수단,SSD,0.7,ROFST.MOD.1,2025,59,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+소말리아,SOM,0.7,ROFST.H.1,2022,73.79,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+남수단,SSD,0.7,ROFST.MOD.1,2025,59,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 잠비아,ZMB,0.904,ROFST.MOD.1,2025,9.6,
 짐바브웨,ZWE,0.883,ROFST.MOD.1,2025,11.7,
 앙골라,AGO,0.67,ROFST.MOD.1,2025,33,
 중앙아프리카공화국,CAF,0.534,ROFST.MOD.1,2025,46.6,
 차드,TCD,0.799,ROFST.MOD.1,2025,20.1,
 콩고공화국,COG,0.837,ROFST.MOD.1,2025,16.3,
-적도기니,GNQ,0.795,ROFST.MOD.1,2025,62,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
-가봉,GAB,0.86,ROFST.MOD.1,2025,27.9,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+적도기니,GNQ,0.795,ROFST.MOD.1,2025,62,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+가봉,GAB,0.86,ROFST.MOD.1,2025,27.9,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 상투메프린시페,STP,0.967,ROFST.MOD.1,2025,3.3,
-리비아,LBY,0.875,ROFST.MOD.1,2025,37.8,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+리비아,LBY,0.875,ROFST.MOD.1,2025,37.8,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 튀니지,TUN,0.96,ROFST.MOD.1,2025,4,
 보츠와나,BWA,0.952,ROFST.MOD.1,2025,4.8,
 에스와티니,SWZ,0.963,ROFST.MOD.1,2025,3.7,
@@ -101,8 +101,8 @@ country_ko,iso3,primary_attendance_game,uis_indicator,uis_year,uis_out_of_school
 키르기스스탄,KGZ,0.983,ROFST.MOD.1,2025,1.7,
 타지키스탄,TJK,0.743,ROFST.MOD.1,2025,25.7,
 투르크메니스탄,TKM,0.981,ROFST.MOD.1,2025,1.9,
-홍콩,HKG,0.99,ROFST.MOD.1,2025,1.5,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
-마카오,MAC,0.99,ROFST.MOD.1,2025,18.7,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+홍콩,HKG,0.99,ROFST.MOD.1,2025,1.5,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+마카오,MAC,0.99,ROFST.MOD.1,2025,18.7,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 대만,TWN,0.99,,,,no UIS data; game estimate
 북한,PRK,0.997,ROFST.MOD.1,2025,0.3,
 몽골,MNG,0.933,ROFST.MOD.1,2025,6.7,
@@ -111,17 +111,17 @@ country_ko,iso3,primary_attendance_game,uis_indicator,uis_year,uis_out_of_school
 브루나이,BRN,1.0,ROFST.MOD.1,2025,0,
 캄보디아,KHM,0.888,ROFST.MOD.1,2025,11.2,
 라오스,LAO,0.862,ROFST.MOD.1,2025,13.8,
-싱가포르,SGP,0.99,ROFST.MOD.1,2025,6.1,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+싱가포르,SGP,0.99,ROFST.MOD.1,2025,6.1,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 동티모르,TLS,0.945,ROFST.MOD.1,2025,5.5,
 아르메니아,ARM,0.965,ROFST.MOD.1,2025,3.5,
 아제르바이잔,AZE,0.973,ROFST.MOD.1,2025,2.7,
 바레인,BHR,0.912,ROFST.MOD.1,2025,8.8,
 키프로스,CYP,1.0,ROFST.MOD.1,2025,0,
 조지아,GEO,1.0,ROFST.MOD.1,2025,0,
-이스라엘,ISR,0.99,ROFST.MOD.1,2025,1.4,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+이스라엘,ISR,0.99,ROFST.MOD.1,2025,1.4,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 요르단,JOR,0.983,ROFST.MOD.1,2025,1.7,
-쿠웨이트,KWT,0.92,ROFST.1.CP,2024,50.79,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
-레바논,LBN,0.885,ROFST.MOD.1,2025,25.7,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+쿠웨이트,KWT,0.92,ROFST.1.CP,2024,50.79,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+레바논,LBN,0.885,ROFST.MOD.1,2025,25.7,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 오만,OMN,0.937,ROFST.MOD.1,2025,6.3,
 카타르,QAT,0.948,ROFST.MOD.1,2025,5.2,
 팔레스타인,PSE,0.91,ROFST.MOD.1,2025,9,
@@ -142,11 +142,11 @@ country_ko,iso3,primary_attendance_game,uis_indicator,uis_year,uis_out_of_school
 보스니아헤르체고비나,BIH,0.951,ROFST.MOD.1,2025,4.9,
 크로아티아,HRV,1.0,ROFST.MOD.1,2025,0,
 그리스,GRC,0.989,ROFST.MOD.1,2025,1.1,
-몰타,MLT,0.975,ROFST.MOD.1,2025,4.5,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+몰타,MLT,0.975,ROFST.MOD.1,2025,4.5,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 몬테네그로,MNE,0.999,ROFST.MOD.1,2025,0.1,
 북마케도니아,MKD,0.975,ROFST.MOD.1,2025,2.5,
 포르투갈,PRT,1.0,ROFST.MOD.1,2025,0,
-산마리노,SMR,0.99,ROFST.MOD.1,2025,6.2,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+산마리노,SMR,0.99,ROFST.MOD.1,2025,6.2,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 세르비아,SRB,0.994,ROFST.MOD.1,2025,0.6,
 슬로베니아,SVN,0.99,ROFST.MOD.1,2025,1,
 오스트리아,AUT,0.992,ROFST.MOD.1,2025,0.8,
@@ -157,8 +157,8 @@ country_ko,iso3,primary_attendance_game,uis_indicator,uis_year,uis_out_of_school
 네덜란드,NLD,0.999,ROFST.MOD.1,2025,0.1,
 스위스,CHE,0.999,ROFST.MOD.1,2025,0.1,
 앤티가바부다,ATG,0.999,ROFST.MOD.1,2025,0.1,
-바하마,BHS,0.925,ROFST.MOD.1,2025,29.6,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
-바베이도스,BRB,0.93,ROFST.MOD.1,2025,23.3,UIS value at or below the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+바하마,BHS,0.925,ROFST.MOD.1,2025,29.6,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
+바베이도스,BRB,0.93,ROFST.MOD.1,2025,23.3,UIS value at or below, or less than 1 percentage point above, the lower secondary completion rate; set halfway between that rate and 1 (game estimate)
 쿠바,CUB,0.987,ROFST.MOD.1,2025,1.3,
 도미니카연방,DMA,0.967,ROFST.MOD.1,2025,3.3,
 도미니카공화국,DOM,0.909,ROFST.MOD.1,2025,9.1,
